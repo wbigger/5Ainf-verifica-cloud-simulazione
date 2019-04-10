@@ -40,22 +40,7 @@ Punti progetto:
 - [ ] tutte le card visualizzate correttamente
 - [ ] istanza su AWS creata ed accessibile
 - [ ] istanza su AWS che visualizza lo stesso codice locale
-- [ ] screenshots del 
-
-- Fork progetto: 1 punto
-- Correzione Java package: 1 punto
-- Impostazione setSize: 1 punto
-- Visualizzazione titolo pagina HTML: 1 punto
-- Visualizzazione descrizione pagina: 1 punto
-- Visualizzazione intestazione tabella: 1 punto
-- Visualizzazione prima riga tabella: 1 punto
-- Visualizzazione seconda e terza riga tabella: 1 punto
-- Corretta indentazione del codice sorgente: 1 punto
-- Uso StringBuilder: 1 punto
-- Chiarezza del codice (commenti, identificativi variabili, etc.): 1 punto
-- Codice che compila: 1 punto
-- Scrittura di un messaggio di commit significativo: 1 punto
-- Push su GitHub: 1 punto
+- [ ] screenshots delle prestazioni di caricamento della pagina sia su AWS che in locale
 
 Totale punti (generali+progetto): 20
 
