@@ -67,7 +67,7 @@ Punti benchmark:
 - [ ] screenshots delle prestazioni di caricamento della pagina locale
 - [ ] screenshots delle prestazioni di caricamento della pagina su AWS
 
-Totale punti: 20
+Totale punti: 18
 
 Sufficienza: 11
 
