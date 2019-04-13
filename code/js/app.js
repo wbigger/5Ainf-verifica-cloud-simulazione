@@ -16,7 +16,7 @@ var app = {
 				<p class="card-text">${element.desc}</p>
 			  </div>
 			  <div class="card-footer">
-				<a href="${element.buttonUrl}">Accedi</a>
+				<a href="${element.buttonUrl}" class="btn btn-primary">Accedi</a>
 			  </div>
 			</div>
 		  </div>`;
